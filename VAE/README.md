@@ -8,6 +8,8 @@ https://arxiv.org/abs/1511.06434
 
 I used MNIST.
 
+I am constently updating this code. I love tweaking! 
+
 
 
 
