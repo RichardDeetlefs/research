@@ -9,6 +9,8 @@ in training the model.
 
 The chosen dataset is MNIST.
 
+I am constently updating this code. I love tweaking! 
+
 
 
 
