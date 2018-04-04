@@ -11,6 +11,8 @@ in training the model.
 
 I used MNIST.
 
+This code is very difficult to impliment. A normal GAN is tough as we train two networks, but now there's three! So I am constently updating this code. I love tweaking! 
+
 
 
 
