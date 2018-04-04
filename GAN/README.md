@@ -7,3 +7,5 @@ I have added consensus optimisation (http://arxiv.org/abs/1705.10461) and instan
 in training the model. 
 
 The code is attempting to model a Gaussian distribution
+
+I am constently updating this code. I love tweaking! 
