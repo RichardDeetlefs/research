@@ -163,8 +163,8 @@ def set_up():
                 shutil.rmtree(save_loc + '/manifold_images')
                 print('deteling old manifold imaged')
     
-    functoin_file = 'dcgan_functions.py'
-    this_file = 'dcgan_run.py'
+    functoin_file = 'bigan_functions.py'
+    this_file = 'bigan_run.py'
     helper_file = 'helper_functions.py'
     save_loc = './run_stats/run' + code_run_number
     img_dir = save_loc + '/manifold_images'
